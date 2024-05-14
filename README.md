@@ -13,7 +13,7 @@ reactjs with docker by Aliyou BINATE
 
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/fe1a4dec-373a-4294-9ee7-da84ca9c021c)
 
-###### Ne pas oublier la création du fichier .dockerignore contenant node-modules
+###### Ne pas oublier la création du fichier .dockerignore contenant node_modules
 
 ## Création de l'image avec la commande suivante: 
 docker build -t monimagetest .
