@@ -22,6 +22,9 @@ reactjs with docker by Aliyou BINATE
 docker build -t monimagetest .
 
 ## Création du conteneur à partir de l'image monimagetest:v3
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/5e18d23b-d34b-4be1-bb3f-12d795589072)
+
+
 sudo docker run -p 8083:3000 monimagetest:v3
 
 
