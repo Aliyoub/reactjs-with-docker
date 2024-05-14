@@ -1,4 +1,4 @@
-# Mise en conteneur (ou <<dockerisation>>) d'une application reactjs
+# Mise en conteneur (ou "dockerisation") d'une application reactjs
 
 ## Création de l'application reactjs
 
