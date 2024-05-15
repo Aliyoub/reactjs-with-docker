@@ -35,6 +35,16 @@ sudo docker run -p 8083:3000 monimagetest:v3
 ### Liste des images
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/9fd75dec-f0ba-439e-a511-cf3bb299bf86)
 
+### Connexion au dépôt distant
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/57c2deb2-d454-4b99-8a24-b9bc95a54ced)
+
+### Association d'un tag à l'image
+sudo docker tag monimagetest:v3 alibinapi/monimagetest
+### Déploiement de l'image sur le dépôt dockerhub
+sudo docker push alibinapi/monimagetest
+
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/9eb14af0-a5da-4c2b-9b86-f245d311f042)
+
 
 
 
