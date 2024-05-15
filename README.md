@@ -45,9 +45,7 @@ sudo docker push alibinapi/monimagetest
 
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/9eb14af0-a5da-4c2b-9b86-f245d311f042)
 
-
-
-
+### Image déployée sur dockerhub
 
 
 
