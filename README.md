@@ -24,7 +24,9 @@ sudo docker run -p 8083:3000 monimagetest:v3
 
 
 
-## Mise en place de la redirection de port
+## Mise en place de la redirection de port (depuis Virtualbox)
+### En effet, cette redirection de port permettra l'affichage du site sur le navigateur de la machine physique
+### bien que l'application soit lancée depuis un conteneur d'une machine virtuelle
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/0be1eb04-1b62-4438-90de-abc814ceec46)
 
 ## Affichage du site dans le navigateur de ma machine physique
