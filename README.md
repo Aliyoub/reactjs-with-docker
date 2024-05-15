@@ -27,6 +27,10 @@ sudo docker run -p 8083:3000 monimagetest:v3
 ## Mise en place de la redirection de port
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/0be1eb04-1b62-4438-90de-abc814ceec46)
 
+## Affichage du site dans le navigateur de ma machine physique
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/b8ac441c-61a8-4e74-a394-63b23b456c88)
+
+
 
 
 
