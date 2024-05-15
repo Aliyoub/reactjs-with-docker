@@ -31,6 +31,10 @@ sudo docker run -p 8083:3000 monimagetest:v3
 ## Affichage du site dans le navigateur de ma machine physique
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/b8ac441c-61a8-4e74-a394-63b23b456c88)
 
+## Déploiement de l'image sur le dépôt dockerhub
+### Liste des images
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/9fd75dec-f0ba-439e-a511-cf3bb299bf86)
+
 
 
 
