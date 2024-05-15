@@ -28,8 +28,6 @@ sudo docker run -p 8083:3000 monimagetest:v3
 ### En effet, cette redirection de port permettra l'affichage du site sur le navigateur de la machine physique, bien que l'application soit lancée depuis un conteneur d'une machine virtuelle
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/a911877a-beaa-48c1-885c-1b940e2f4c99)
 
-![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/0be1eb04-1b62-4438-90de-abc814ceec46)
-
 ## Affichage du site dans le navigateur de ma machine physique
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/b8ac441c-61a8-4e74-a394-63b23b456c88)
 
