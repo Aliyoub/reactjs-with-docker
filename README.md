@@ -10,6 +10,7 @@ ls
 reactjs with docker by Aliyou BINATE
 
 ## Mise en place du fichier Dockerfile
+![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/a1ce4b1d-7027-4a50-befc-cf4ad1978bd9)
 
 ![image](https://github.com/Aliyoub/reactjs-with-docker/assets/25158336/fe1a4dec-373a-4294-9ee7-da84ca9c021c)
 
