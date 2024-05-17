@@ -2,9 +2,9 @@
 
 ## Création de l'application reactjs avec la commande suivante:
 npx create-react-app reactjs-with-docker
-## Accès au repertoire reactjs-with-docker par la commande suivante: cd reactjs-with-docker
+<!-- ## Accès au repertoire reactjs-with-docker par la commande suivante: cd reactjs-with-docker
 ## Affichage du contenu du repertoire reactjs-with-docker
-ls
+ls -->
 
 ## Remplaçons le contenu de la page d'accueil par le contenu suivant:
 reactjs with docker by Aliyou BINATE
